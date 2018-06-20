@@ -36,10 +36,6 @@ WebExtensions are unable to modify about:config entries. A workaround for this i
 
 - Whitelist a profile for certain sites.
 
-## Installation
-
-Chameleon is available on the [Firefox Add-ons website](https://addons.mozilla.org/firefox/addon/chameleon-ext).
-
 ## Contribute
 
 Feel free to send a pull request or open an issue. Keep in mind that some functionality isn't technically possible.
